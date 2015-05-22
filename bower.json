@@ -1,0 +1,23 @@
+{
+  "name": "arraymax",
+  "main": "array-max.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/miguelmota/array-max",
+  "authors": [
+    "Miguel Mota <miguelmota2@gmail.com>"
+  ],
+  "description": "Get maximum value of collection.",
+  "keywords": [
+    "collection",
+    "array",
+    "max"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "license": "MIT"
+}
